@@ -1,3 +1,5 @@
+-- language: sql
+
 #Table for Customer Entity: 
 CREATE TABLE `dbms_project`.`tblcustomer` (
   `C_Id` INT NOT NULL AUTO_INCREMENT, `C_Name` VARCHAR(45) NOT NULL, `C_Address` VARCHAR(45) NOT NULL, `C_Contact_Number` VARCHAR(30) NOT NULL,
